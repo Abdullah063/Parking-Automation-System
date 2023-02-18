@@ -1,6 +1,6 @@
 public class Customer {
-        int id;
-        String name,lastName,number,mail,plate,brand,color;
-        int parkLocation;
+        private int id;
+        private String name,lastName,number,mail,plate,brand,color;
+        private int parkLocation;
       
 }
